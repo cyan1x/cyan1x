@@ -9,4 +9,5 @@ I've made things using:
 - Electron
 
 I'm currently learning:
+- Next.js
 - Rust
